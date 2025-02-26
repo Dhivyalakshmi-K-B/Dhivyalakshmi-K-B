@@ -6,10 +6,6 @@ Key Areas Expertise:
 Proficient in data analysis tools such as Excel, SQL, and Python
 Hands-on experience with data visualisation platforms like Power BI and Tableau Strong understanding of statistical analysis and data-driven storytelling
 
-Practical experience through 
-
-Course Work :
-
 Hands-On Projects : 
 
 • Personal Income Dashboard using Power BI (January 2025)
